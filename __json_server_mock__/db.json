@@ -1,3 +1,50 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 1,
+      "name": "William"
+    },
+    {
+      "id": 2,
+      "name": "Leon"
+    },
+    {
+      "id": 3,
+      "name": "Jerry"
+    },
+    {
+      "id": 4,
+      "name": "Alex"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project1",
+      "personId": 1,
+      "organization": "GroupA",
+      "created": 124234120002
+    },
+    {
+      "id": 2,
+      "name": "Project2",
+      "personId": 2,
+      "organization": "GroupB",
+      "created": 124234120003
+    },
+    {
+      "id": 3,
+      "name": "Project3",
+      "personId": 3,
+      "organization": "GroupC",
+      "created": 124234120004
+    },
+    {
+      "id": 4,
+      "name": "Project4",
+      "personId": 4,
+      "organization": "GroupD",
+      "created": 124234120005
+    }
+  ]
 }
